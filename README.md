@@ -19,10 +19,12 @@ samples, guidance on mobile development, and a full API reference.
 ## Setup & Run
 
 **Requirements**
+
 - Flutter 3.41.6
 - Dart 3.11.4
 
 **Steps**
+
 ```bash
 git clone
 cd country_explorer
@@ -31,25 +33,27 @@ flutter run
 ```
 
 **Run tests**
+
 ```bash
 flutter test
 ```
 
 ## Main Packages
 
-| Package | Purpose |
-|---|---|
-| `flutter_riverpod` | State management for theme, search, and country list |
-| `cached_network_image` | Efficiently loads and caches country flag images from URLs |
-| `shared_preferences` | Persists dark/light theme choice between app restarts |
-| `http` | Fetches country data from the REST Countries API |
-| `go_router` / `app_router` | Named route navigation between screens |
+| Package                    | Purpose                                                    |
+| -------------------------- | ---------------------------------------------------------- |
+| `flutter_riverpod`         | State management for theme, search, and country list       |
+| `cached_network_image`     | Efficiently loads and caches country flag images from URLs |
+| `shared_preferences`       | Persists dark/light theme choice between app restarts      |
+| `http`                     | Fetches country data from the REST Countries API           |
+| `go_router` / `app_router` | Named route navigation between screens                     |
 
 ## Data Source
 
 [REST Countries API](https://restcountries.com) — free public API providing data on all countries worldwide.
 
 ## Developers
-- Min Zaw — min.123@tuni.fi
+
+- Min Zaw — min.zaw@tuni.fi
 - Oliver Chandler — oliver.chandler@tuni.fi
 - May Khine — may.khine@tuni.fi
