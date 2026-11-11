@@ -54,6 +54,6 @@ flutter test
 
 ## Developers
 
-- Min Zaw — min.zaw@tuni.fi
-- Oliver Chandler — oliver.chandler@tuni.fi
-- May Khine — may.khine@tuni.fi
+- Min Zaw - min.zaw@tuni.fi
+- Oliver Chandler - oliver.chandler@tuni.fi
+- May Khine - may.khine@tuni.fi
